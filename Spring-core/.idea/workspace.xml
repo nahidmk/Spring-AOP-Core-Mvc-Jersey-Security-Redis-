@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e508c8ae-977b-44fb-b1f2-084452a88e3a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k5ymkqZL2Fw3T94DL6wKdxnoyX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\IdeaProjects\Spring-core\src" />
+      <recent name="C:\Users\ASUS\IdeaProjects\Spring-core" />
+      <recent name="C:\Users\ASUS\IdeaProjects\Spring-core\src\main\java\bd\edu\seu" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bd.edu.seu.App" />
+      <module name="Spring-core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bd.edu.seu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e508c8ae-977b-44fb-b1f2-084452a88e3a" name="Default Changelist" comment="" />
+      <created>1605004907831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605004907831</updated>
+      <workItem from="1605004909789" duration="2220000" />
+      <workItem from="1605009581272" duration="6121000" />
+      <workItem from="1605054061951" duration="6431000" />
+      <workItem from="1605084883663" duration="4329000" />
+      <workItem from="1605182679550" duration="12000" />
+      <workItem from="1605324107370" duration="1367000" />
+      <workItem from="1605583312201" duration="1120000" />
+      <workItem from="1606101214110" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Project_Structure" timestamp="1605084953230">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1605084953230" />
+    <state x="446" y="51" key="#com.intellij.ide.util.MemberChooser" timestamp="1605088014900">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="51" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1605088014900" />
+    <state width="1237" height="213" key="GridCell.Tab.0.bottom" timestamp="1605326847440">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="213" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1605326847440" />
+    <state width="1237" height="213" key="GridCell.Tab.0.center" timestamp="1605326847440">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="213" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1605326847440" />
+    <state width="1237" height="213" key="GridCell.Tab.0.left" timestamp="1605326847439">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="213" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1605326847439" />
+    <state width="1237" height="213" key="GridCell.Tab.0.right" timestamp="1605326847440">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="213" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1605326847440" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1605059198467">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1605059198467" />
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1605583315374">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1605583315374" />
+    <state x="321" y="25" key="spring file set editor" timestamp="1605054214069">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="321" y="25" key="spring file set editor/0.0.1280.680@0.0.1280.680" timestamp="1605054214069" />
+  </component>
+</project>
